@@ -10,6 +10,7 @@ namespace dotnetcore_sample.Controllers
     {
         public IActionResult Index()
         {
+            ViewData["Message"] = "Your index page.";
             return View();
         }
 
