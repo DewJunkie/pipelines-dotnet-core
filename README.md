@@ -1,3 +1,4 @@
+[![Build Status](https://dabmi.visualstudio.com/Pipelines-Demo/_apis/build/status/Pipelines-Demo-CI)](https://dabmi.visualstudio.com/Pipelines-Demo/_build/latest?definitionId=4)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
